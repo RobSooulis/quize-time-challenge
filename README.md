@@ -15,3 +15,4 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+![Coding Quiz](https://user-images.githubusercontent.com/85200166/137618731-dab610e6-298f-40bb-a249-81219fa9d0f7.png)
